@@ -16,4 +16,4 @@ As an aspiring SOC analyst, I jumped at the opportunbity to dive into LetDefend'
 
 
 # Certificate:
-![THM](https://app.letsdefend.io/certificate/show/5a3a5b84-6410-41c7-bbd4-f5ca2f02bf3e)
+![THM]([https://app.letsdefend.io/certificate/show/5a3a5b84-6410-41c7-bbd4-f5ca2f02bf3e](https://app.letsdefend.io/certificate/show/5a3a5b84-6410-41c7-bbd4-f5ca2f02bf3e))
