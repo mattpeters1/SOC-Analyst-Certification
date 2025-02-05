@@ -11,8 +11,14 @@
 
 As an aspiring SOC analyst, I jumped at the opportunbity to dive into LetDefend's SOC Analyst certification. In comparison to other trainings I've completed that were more broad and surface-level, I liked that this course went deep into the technical details with hands-on scenarios. I analyzed a host of different network log formats including NetFlow, WAF, and DNS logs. I found searching for IOCs within network logs to be informative and engaging. I feel that I have a much better understanding as to how common web attacks like SQLi and XXS are detected and prevented. I had fun performing static and dynamic malware analysis with tools like Process Explorer, ProcMon, and AnyRun. I also enjoyed building my own SOC environment and deploying my own Splunk Enterprise SIEM on a web GUI. My plan after this is to continue building out my SOC environment and incorporate SOAR capabilities to gain deeper knowledge on how to construct playbooks and runbooks. I am also utilizing Splunk training materials alongside my Splunk Enterprise environment to become a better SOC analyst.
 
+## Hands-on with Splunk:
+![Capture](https://github.com/mattpeters1/SOC-Analyst-Certification/blob/main/Splunk%20reports.PNG)
 
+## DNS Log analysis:
+![Capture](https://github.com/mattpeters1/SOC-Analyst-Certification/blob/main/Log%20analysis.PNG)
 
+## Dynamic Malware Analysis
+![Capture](https://github.com/user-attachments/assets/093b1619-ad73-4873-95fe-76a3b01d7ad1)
 
 
 # Certificate:
