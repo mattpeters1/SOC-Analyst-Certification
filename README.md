@@ -1,5 +1,7 @@
 # LetsDefend SOC Analyst Learning Path Certification:     
-### https://app.letsdefend.io/path/soc-analyst-learning-path
+
+![Capture](https://github.com/mattpeters1/Virtualized-SOC-Environment-with-SOAR-Capabilities/blob/main/SOC%20Path%20Cert.PNG)
+ 
 ## Objectives: 
 - Proficiency in SOC Tools and Technologies: Gain hands-on experience with essential tools, including Security Information and Event Management (SIEM) systems, endpoint detection and response (EDR) platforms, malware analysis tools, cyber threat intelligence tools, and advanced network monitoring software.
 - Advanced Threat Detection and Incident Response: Develop the skills needed to effectively monitor, detect, and respond to a variety of cyber threats, enhancing your ability to protect organizational assets.
@@ -20,7 +22,5 @@ As an aspiring SOC analyst, I jumped at the opportunbity to dive into LetDefend'
 ## Dynamic Malware Analysis
 ![Capture](https://github.com/user-attachments/assets/093b1619-ad73-4873-95fe-76a3b01d7ad1)
 
+### **[Link to Certificate](https://app.letsdefend.io/path/soc-analyst-learning-path)**
 
-# Certificate:
-![Capture](https://github.com/mattpeters1/Virtualized-SOC-Environment-with-SOAR-Capabilities/blob/main/SOC%20Path%20Cert.PNG)
- 
